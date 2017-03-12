@@ -8,11 +8,25 @@
 
 .slide h3 {
   font-size: 36px;
+  font-weight: 700;
 }
 
-.clock {
+.icon {
   width: 30px;
   vertical-align: sub;
+}
+
+.row {
+  margin-top: 50px;
+}
+
+.triple-cols {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row h3 {
+  text-align: center;
 }
 
 #cover h2 {
