@@ -75,3 +75,8 @@
   width:0.72em;
   height:0.72em;
 }
+
+#courses .double {
+  font-size: 22px;
+  margin-top: 50px;
+}
