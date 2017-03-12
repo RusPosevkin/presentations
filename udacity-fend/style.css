@@ -6,6 +6,15 @@
   display: none;
 }
 
+.slide h3 {
+  font-size: 36px;
+}
+
+.clock {
+  width: 30px;
+  vertical-align: sub;
+}
+
 #cover h2 {
   margin:30px 0 0;
   color:#FFF;
