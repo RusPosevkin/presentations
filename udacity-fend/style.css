@@ -80,3 +80,7 @@
   font-size: 22px;
   margin-top: 50px;
 }
+
+.active {
+  color: #4b86c2;
+}
