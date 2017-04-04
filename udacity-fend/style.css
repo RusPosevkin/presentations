@@ -85,7 +85,11 @@
   color: #4b86c2;
 }
 
-.slide ul.accent li::before{
+.slide ul.accent:not(.nested-list) li::before{
   content: '';
   list-style: none;
+}
+
+.nested-list {
+  font-size: 20px;
 }
