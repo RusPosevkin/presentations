@@ -84,3 +84,8 @@
 .accent {
   color: #4b86c2;
 }
+
+.slide ul.accent li::before{
+  content: '';
+  list-style: none;
+}
