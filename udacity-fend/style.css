@@ -97,3 +97,8 @@
 .timeline {
   max-width: 100%;
 }
+
+.slide img.demo-map {
+  top: 60%;
+  height: 350px;
+}
