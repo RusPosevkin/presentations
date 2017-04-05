@@ -93,3 +93,7 @@
 .nested-list {
   font-size: 20px;
 }
+
+.timeline {
+  max-width: 100%;
+}
